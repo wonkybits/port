@@ -1,0 +1,11 @@
+state: enabled
+email: phil.stene@gmail.com
+fullname: 'Phil Stene'
+title: 'the man'
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$xrV6OwB2LvXSg5UE.uGTcO5gcoHLOuV2qaoii.a27wtDatVwSs0LC
